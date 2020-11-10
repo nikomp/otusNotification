@@ -12,3 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
+network_security_config.xml
+provider_paths.xml
